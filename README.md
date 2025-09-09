@@ -22,7 +22,7 @@
 - 🔭 Currently working on **Durioo+ (Kids Streaming Platform)**
 - 🌱 Exploring **Next.js | React Native | Kotlin**
 - 💬 Ask me about **Frontend, Mobile, and Performance Optimization (Core Web Vitals)**
-- 📫 Reach me at [LinkedIn](https://linkedin.com/in/ilham-ramadani)
+- 📫 Reach me at [LinkedIn](https://linkedin.com/in/ilham-ramadani-a38256117)
 
 ---
 
