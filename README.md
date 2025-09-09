@@ -13,7 +13,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamdani97&show_icons=true&theme=tokyonight&hide_border=true)
+![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamdani97&count_private=true&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamdani97&theme=tokyonight&hide_border=true)
 
