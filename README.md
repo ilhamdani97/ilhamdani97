@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Ilham Ramadani
 
-<!--
-**ilhamdani97/ilhamdani97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=ilhamdani97&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on [Durioo+](https://duriooplus.com)
+- 🌱 Learning **Next.js, React Native, Vue,js, Kotlin**
+- 💬 Ask me about **Frontend & Mobile Development**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ilham-ramadani)
+
+---
+
+### 📊 GitHub Stats
+![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamdani97&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamdani97&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamdani97&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=ilhamdani97&theme=onedark)
+
+---
+
+### 📈 Activity Graph
+![Ilham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilhamdani97&theme=react-dark&hide_border=true)
+
+---
+
+⭐️ Thanks for visiting ❤️
